@@ -1,4 +1,4 @@
-## FM2GP-2024
+## FM2GP-2025
 
 This is the material (code and presentation slide decks) that correspond to the [Programming Languages Virtual Meetup](https://www.meetup.com/Programming-Languages-Toronto-Meetup/) course that covered **From Mathematics to Generic Programming**.
 
