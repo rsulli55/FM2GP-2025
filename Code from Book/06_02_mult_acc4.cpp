@@ -1,7 +1,7 @@
 auto odd(int n) -> bool { return n & 0x1; }
 auto half(int n) -> int { return n >> 1; }
 
-// back to iterative
+// change to iterative
 int mult_acc4(int r, int n, int a) {
     while (true) {
         if (odd(n)) {
