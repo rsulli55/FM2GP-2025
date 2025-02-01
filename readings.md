@@ -24,4 +24,4 @@
 
 #### Spoils of the Egyptians: Lecture 2 Part 1
 
-* 📑 FM2GP Chapter 7 - Deriving a Generic Algorithm0
+* 📑 FM2GP Chapter 7 - Deriving a Generic Algorithm
