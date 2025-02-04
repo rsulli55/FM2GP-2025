@@ -22,6 +22,6 @@
 * [The Elemends by Euclid (Translated by Sir Thomas Heath)](https://www.amazon.ca/Thirteen-Books-Elements-Vol/dp/0486600882)
 * [A History of Greek Mathematics by Sir Thomas Heath](https://www.amazon.ca/History-Greek-Mathematics-Thales-Euclid-ebook/dp/B00GU6GQG0/)
 
-#### Spoils of the Egyptians: Lecture 2 Part 1
+#### Spoils of the Egyptians: Lecture 2 Part 2
 
 * 📑 FM2GP Chapter 7 - Deriving a Generic Algorithm
