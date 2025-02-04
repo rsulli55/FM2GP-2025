@@ -15,3 +15,4 @@
 * https://adspthepodcast.com/2024/10/04/Episode-202.html
 * https://godbolt.org/z/Wbqqe78MM
 * https://wwwhomes.uni-bielefeld.de/achim/addition_chain.html
+* https://hackage.haskell.org/package/lens-5.3.3/docs/Control-Lens-Lens.html
