@@ -12,7 +12,7 @@ This is the material (code and presentation slide decks) that correspond to the 
     * [Epilogue](https://www.youtube.com/playlist?list=PLHxtyCq_WDLVQPzEm3igPiYOR68HQcMZT)
 
 ### Some Fun from Meeting 2:
-We asked ChatGPT:
+We asked ChatGPT (GPT-4-turbo):
 > Can you provide me with the diagram from Programming Pearls by Jon Bently that shows the hand algorithm for rotate?
 and got:
 
