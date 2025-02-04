@@ -11,5 +11,13 @@ This is the material (code and presentation slide decks) that correspond to the 
     * [Part 3: Successors of Peano](https://www.youtube.com/playlist?list=PLHxtyCq_WDLXrHwcaay14-4FXdzQBIMGx)
     * [Epilogue](https://www.youtube.com/playlist?list=PLHxtyCq_WDLVQPzEm3igPiYOR68HQcMZT)
 
-Some fun from Meeting 2:
+### Some Fun from Meeting 2:
+We asked ChatGPT:
+> Can you provide me with the diagram from Programming Pearls by Jon Bently that shows the hand algorithm for rotate?
+and got:
+
 ![image](https://github.com/user-attachments/assets/7f77c7da-d23f-415b-89e4-461ccdd16a03)
+
+when this is what we wanted 😂
+
+![image](https://github.com/user-attachments/assets/cbcfe0a9-db90-4695-9ba8-908c849e8c7b)
