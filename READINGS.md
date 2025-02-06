@@ -25,3 +25,7 @@
 #### Spoils of the Egyptians: Lecture 2 Part 2
 
 * 📑 FM2GP Chapter 7 - Deriving a Generic Algorithm
+* ⭐️ [Notation as a Tool of Thought (1979) - Iverson](https://dl.acm.org/doi/pdf/10.1145/1283920.1283935)
+* ⭐️ [Can programming be liberated from the von Neumann style? (1978) - Backus](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
+* ⭐️ [Operators and Algebraic Structures (1981) - Kapur et al](https://stepanovpapers.com/p59-kapur.pdf)
+* ⭐️ [MapReduce (2004) - Dean et al](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
