@@ -9,7 +9,7 @@ FibN ← { ¯1⊑m⊸Mm⍟𝕩1‿0 }
 # Fibonacci using Matrix Exponentiation - O(logn)
 FibHelper ← {
     𝕩≤1 ? m ;
-    2|𝕩 ? m Mm (𝕊 𝕩-1) ;
+    2|𝕩 ? m Mm 𝕊 𝕩-1 ;
     Mm˜ 𝕊 𝕩÷2
 }
 
