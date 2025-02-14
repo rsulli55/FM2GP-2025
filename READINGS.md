@@ -23,9 +23,9 @@
 * 📑 FM2GP Chapter 7 - Deriving a Generic Algorithm (the start)
 * [The Elemends by Euclid (Translated by Sir Thomas Heath)](https://www.amazon.ca/Thirteen-Books-Elements-Vol/dp/0486600882)
 * [A History of Greek Mathematics by Sir Thomas Heath](https://www.amazon.ca/History-Greek-Mathematics-Thales-Euclid-ebook/dp/B00GU6GQG0/)
+* 👨‍🎓 Galois (21:40)
 
 #### Spoils of the Egyptians: Lecture 2 Part 2
-* 👨‍🎓 Galois (21:40)
 
 * 📑 FM2GP Chapter 7 - Deriving a Generic Algorithm
 * ⭐️ [Notation as a Tool of Thought (1979) - Iverson](https://dl.acm.org/doi/pdf/10.1145/1283920.1283935)
