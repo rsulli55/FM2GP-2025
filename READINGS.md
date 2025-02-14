@@ -29,3 +29,13 @@
 * ⭐️ [Can programming be liberated from the von Neumann style? (1978) - Backus](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
 * ⭐️ [Operators and Algebraic Structures (1981) - Kapur et al](https://stepanovpapers.com/p59-kapur.pdf)
 * ⭐️ [MapReduce (2004) - Dean et al](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+
+#### Spoils of the Egyptians: Lecture 3 Part 1
+
+* 📑 FM2GP Chapter 7 - Deriving a Generic Algorithm
+* 📑 FM2GP Chapter 3 - Ancient Greek Number Theory (the start)
+* ⭐️ [An Efficient Algorithm for Linear Recurrences (1985) - Fiduccia](https://moscow.sci-hub.se/1854/16842aa4a74ecc17cd720c580966f856/fiduccia1985.pdf)
+
+#### Spoils of the Egyptians: Lecture 3 Part 2
+
+* 📑 FM2GP Chapter 3 - Ancient Greek Number Theory
