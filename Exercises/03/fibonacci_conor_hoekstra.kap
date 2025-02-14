@@ -13,5 +13,5 @@ FibHelper ⇐ {
   }
 }
 
-FibLogN ⇐ 1⌊«×»{(⊂0 1)⊇FibHelper⍵}
+FibLogN ⇐ 1⌊«×»((⊂0 1)⊇FibHelper)
 FibLogN ¨ ⍳11
