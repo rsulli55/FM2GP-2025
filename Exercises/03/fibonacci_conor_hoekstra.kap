@@ -1,15 +1,14 @@
 ⍝ Fibonacci using Matrix Multiplication - O(n)
 m    ← 2 2⍴3>⍳4
-FibN ⇐ { ↓((m+•×)⍣⍵)1 0 }
-FibN ¨ ⍳11
+FibN ⇐ { ↓((m+∙×)⍣⍵)1 0 }
+io:println¨ FibN ¨ ⍳11
 
 ⍝ Fibonacci using Matrix Exponentiation - O(logn)
 FibHelper ⇐ {
-  x ← ⍵
   when {
-    (x≤1) { m }
-    (2|x) { m +•×  FibHelper x-1 }
-    (1)   {   +•×⍨ FibHelper x÷2 }
+    (⍵≤1) { m }
+    (2|⍵) { m +∙×  FibHelper ⍵-1 }
+    (1)   {   +∙×⍨ FibHelper ⍵÷2 }
   }
 }
 
