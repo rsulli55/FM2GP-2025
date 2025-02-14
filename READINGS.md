@@ -1,7 +1,8 @@
-### Suggested Readings (and others mentioned)
+### Suggested Readings / Legend (and others mentioned)
 
 * ⭐️ = Suggested
-* 📑 = Corresponds to 
+* 📑 = Corresponds to
+* 👨‍🎓 = Mathematician Story
 * Otherwise Mentioned
 
 #### Spoils of the Egyptians: Lecture 1 Part 1
@@ -14,6 +15,7 @@
 * 📑 FM2GP Chapter 2 - The First Algorithm
 * [A Mathematicians Miscellany by J.E. Littlewood](https://archive.org/details/mathematiciansmi033496mbp/mode/2up)
 * The Art of Computer Programming Vol 2: Seminumerical Algorithms, pg 465-481 by Knuth
+* 👨‍🎓 Thales of Miletus (10:47, 22:45)
 
 #### Spoils of the Egyptians: Lecture 2 Part 1
 
@@ -23,6 +25,7 @@
 * [A History of Greek Mathematics by Sir Thomas Heath](https://www.amazon.ca/History-Greek-Mathematics-Thales-Euclid-ebook/dp/B00GU6GQG0/)
 
 #### Spoils of the Egyptians: Lecture 2 Part 2
+* 👨‍🎓 Galois (21:40)
 
 * 📑 FM2GP Chapter 7 - Deriving a Generic Algorithm
 * ⭐️ [Notation as a Tool of Thought (1979) - Iverson](https://dl.acm.org/doi/pdf/10.1145/1283920.1283935)
