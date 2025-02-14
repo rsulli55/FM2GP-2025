@@ -1,7 +1,7 @@
 ⍝ Fibonacci using Matrix Multiplication - O(n)
 m    ← 2 2⍴3>⍳4
-FibN ⇐ { ↓((m+∙×)⍣⍵)1 0 }
-io:println¨ FibN ¨ ⍳11
+FibN ⇐ { 1⊃((m+∙×)⍣⍵)1 0 }
+io:print o3:format FibN ¨ ⍳11
 
 ⍝ Fibonacci using Matrix Exponentiation - O(logn)
 FibHelper ⇐ {
