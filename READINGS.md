@@ -23,7 +23,6 @@
 * 📑 FM2GP Chapter 7 - Deriving a Generic Algorithm (the start)
 * [The Elemends by Euclid (Translated by Sir Thomas Heath)](https://www.amazon.ca/Thirteen-Books-Elements-Vol/dp/0486600882)
 * [A History of Greek Mathematics by Sir Thomas Heath](https://www.amazon.ca/History-Greek-Mathematics-Thales-Euclid-ebook/dp/B00GU6GQG0/)
-* 👨‍🎓 Galois (21:40)
 
 #### Spoils of the Egyptians: Lecture 2 Part 2
 
@@ -32,6 +31,7 @@
 * ⭐️ [Can programming be liberated from the von Neumann style? (1978) - Backus](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
 * ⭐️ [Operators and Algebraic Structures (1981) - Kapur et al](https://stepanovpapers.com/p59-kapur.pdf)
 * ⭐️ [MapReduce (2004) - Dean et al](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+* 👨‍🎓 Galois (21:40)
 
 #### Spoils of the Egyptians: Lecture 3 Part 1
 
