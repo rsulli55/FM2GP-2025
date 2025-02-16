@@ -42,3 +42,15 @@
 #### Spoils of the Egyptians: Lecture 3 Part 2
 
 * 📑 FM2GP Chapter 3 - Ancient Greek Number Theory
+
+#### Spoils of the Egyptians: Lecture 4 Part 1
+
+* 📑 FM2GP Chapter 3 - Ancient Greek Number Theory
+* 📑 FM2GP Chapter 5 - The Emergence of Modern Number Theory
+* 👨‍🎓 Death of Archimedes (23:00)
+* 👨‍🎓 Marin Mersenne (34:00)
+* 👨‍🎓 Pierre Fermat (44:00)
+
+#### Spoils of the Egyptians: Lecture 4 Part 2
+
+* 📑 FM2GP Chapter 5 - The Emergence of Modern Number Theory
