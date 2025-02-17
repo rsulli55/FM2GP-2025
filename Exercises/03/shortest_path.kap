@@ -1,0 +1,10 @@
+⍝ Stepanov says that shortest path is
+⍝ where +.× is replaced with ⌊.+ (Tropical Semiring))
+⍝ 27:00 of Spoils of the Egyptians: Lecture 3 Part 1
+
+⍝ Tropical Semiring Matrix Power Shortest Path
+Inf ← 100 ⍝ fake infinity
+m   ← 5 5⍴0 7 5 Inf Inf 7 Inf 0 3 6 5 Inf 0 4 2 0 3 4 0 Inf Inf 6 2 Inf 0
+io:print o3:format m
+
+m ⌊∙+ m ⍝ so simple
