@@ -28,3 +28,5 @@
 * https://dfns.dyalog.com/c_pco.htm
 * https://combinatorylogic.com/table.html
 * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
+![image](https://github.com/user-attachments/assets/7dd7adc9-47d9-40d5-b047-4c67089e4237)
