@@ -2,13 +2,15 @@
 
 Asked ChatGPT for graph and visualization, lol.
 
-![image](https://github.com/user-attachments/assets/c2baf6ef-73a7-4960-9c1b-ba35330f6909)
+![image](https://github.com/user-attachments/assets/bbb0d83c-4bda-4bac-80e3-d81eeca65391)
 
 Using NetworkX:
-![network_graph](https://github.com/user-attachments/assets/cb46fd0a-b032-4e2e-82d8-c11824200eee)
+
+![image](https://github.com/user-attachments/assets/cdc160e7-8da9-4372-b876-5efe169acb40)
 
 Using Graphviz:
-![graph](https://github.com/user-attachments/assets/6ee32f00-24ed-458f-912b-dcf2bdc0866a)
+
+![image](https://github.com/user-attachments/assets/3d431014-34ed-4e3a-8ee7-03ae2499a392)
 
 And this is the Kap code to solve:
 ```apl
