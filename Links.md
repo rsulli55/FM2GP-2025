@@ -16,3 +16,15 @@
 * https://godbolt.org/z/Wbqqe78MM
 * https://wwwhomes.uni-bielefeld.de/achim/addition_chain.html
 * https://hackage.haskell.org/package/lens-5.3.3/docs/Control-Lens-Lens.html
+
+### Chapter 7/3 Meeting (Feb 17, 2025)
+
+* https://theory.stanford.edu/~aiken/publications/trs/FLProject.pdf
+* https://youtu.be/gQ5uFQ1pfDE
+* https://adspthepodcast.com/tags/#Sean+Parent
+* https://cp-algorithms.com/algebra/binary-exp.html
+* https://artofproblemsolving.com/wiki/index.php/Binet%27s_Formula
+* https://mathworld.wolfram.com/BinetsFormula.html
+* https://dfns.dyalog.com/c_pco.htm
+* https://combinatorylogic.com/table.html
+* https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
