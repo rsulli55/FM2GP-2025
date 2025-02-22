@@ -54,3 +54,15 @@
 #### Spoils of the Egyptians: Lecture 4 Part 2
 
 * 📑 FM2GP Chapter 5 - The Emergence of Modern Number Theory
+* 👨‍🎓 Leonhard Euler (29:00-35-38)
+
+### Spoils of the Egyptians: Lecture 5 Part 1
+
+* 📑 FM2GP Chapter 5 - The Emergence of Modern Number Theory
+* 📑 FM2GP Chapter 13 - A Real World Application
+
+### Spoils of the Egyptians: Lecture 5 Part 2
+
+* 📑 FM2GP Chapter 13 - A Real World Application
+* ⭐️ [Primes is in P (2002)](https://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf)
+* ⭐️ [The Gold Bug - Edgar Allen Poe](https://en.wikipedia.org/wiki/The_Gold-Bug)
