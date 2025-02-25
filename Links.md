@@ -30,3 +30,18 @@
 * https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 
 ![image](https://github.com/user-attachments/assets/7dd7adc9-47d9-40d5-b047-4c67089e4237)
+
+### Chapter 5/13 Meeting (Feb 24, 2025)
+
+* https://adspthepodcast.com/2025/02/21/Episode-222.html
+* https://github.com/codereport/FM2GP-2025
+* https://www.youtube.com/watch?v=fEWj93XjON0
+* https://jcarroll.com.au/2022/10/29/complex-puzzle/
+* https://youtu.be/fanm5y00joc?si=WTy9mBO1f_8OEeHO
+* https://www.math.uchicago.edu/~may/VIGRE/VIGRE2007/REUPapers/FINALAPP/Calderbank.pdf
+* http://www.pki.iam.metu.edu.tr/yazi-makale/granville.pdf
+* https://ntietz.com/blog/rsa-deceptively-simple/
+* https://www.youtube.com/watch?v=1QvkTKNgHJk
+* https://chromewebstore.google.com/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
+* https://en.wikipedia.org/wiki/Kryptos
+* https://web.lmarena.ai/leaderboard
