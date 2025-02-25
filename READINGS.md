@@ -5,6 +5,8 @@
 * 👨‍🎓 = Mathematician Story
 * Otherwise Mentioned
 
+## Journey 1: Spoils of the Egyptians
+
 #### Spoils of the Egyptians: Lecture 1 Part 1
 
 * ⭐️ [Social Processes and Proofs of Theorems and Programs (1979) - De Millo, Lipton, Perlis](https://gwern.net/doc/math/1979-demillo.pdf)
@@ -65,4 +67,15 @@
 
 * 📑 FM2GP Chapter 13 - A Real World Application
 * ⭐️ [Primes is in P (2002)](https://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf)
+* ⭐️ [IT IS EASY TO DETERMINE WHETHER A GIVEN INTEGER IS PRIME](http://www.pki.iam.metu.edu.tr/yazi-makale/granville.pdf)
 * ⭐️ [The Gold Bug - Edgar Allen Poe](https://en.wikipedia.org/wiki/The_Gold-Bug)
+
+## Journey 2: Heirs of Pythagoras
+
+### Heirs of Pythagoras: Lecture 1 Part 1
+
+* 📑 FM2GP Chapter 3 - Ancient Greek Number Theory (3.5 - 3.7)
+
+### Heirs of Pythagoras: Lecture 1 Part 2
+
+* 📑 FM2GP Chapter 4 - Euclid's Algorithm
