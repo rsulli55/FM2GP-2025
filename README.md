@@ -10,7 +10,7 @@ This is the material (code and presentation slide decks) that correspond to the 
     * [Part 2: Heirs of Pythagoras](https://www.youtube.com/playlist?list=PLHxtyCq_WDLW0NqZCcrrQUa24H_af6Mrn)
     * [Part 3: Successors of Peano](https://www.youtube.com/playlist?list=PLHxtyCq_WDLXrHwcaay14-4FXdzQBIMGx)
     * [Epilogue](https://www.youtube.com/playlist?list=PLHxtyCq_WDLVQPzEm3igPiYOR68HQcMZT)
-
+    * [Bonus Video: AlexFest: Daniel Rose - What's Past is Prologue](https://www.youtube.com/watch?v=rm-4_kVucaE)
 ## LLM Fun
 
 ### From Meeting 2:
