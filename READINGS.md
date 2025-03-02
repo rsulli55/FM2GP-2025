@@ -94,4 +94,9 @@
 ### Heirs of Pythagoras: Lecture 2 Part 2
 
 * 📑 FM2GP Chapter 4 - Euclid's Algorithm
+* 📑 FM2GP Chapter 8 - More Algebraic Structures
+* ⭐️ [DISME: The Art of Tenths - Stevin](https://adcs.home.xs4all.nl/stevin/telconst/10ths.html)
+* ⭐️ [Algebra - Chrystal](https://archive.org/details/algebraelementar01chryuoft)
 * 👨‍🎓 Dutch Golden Age (18:00)
+* 👨‍🎓 Simon Stevin (24:40)
+* 👨‍🎓 Descartes / D'Artagnon (41:48)
