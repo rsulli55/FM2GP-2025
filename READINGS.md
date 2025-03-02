@@ -75,7 +75,7 @@
 ### Heirs of Pythagoras: Lecture 1 Part 1
 
 * 📑 FM2GP Chapter 3 - Ancient Greek Number Theory (3.5 - 3.7)
-* 👨‍🎓 Athens Mathematicians - Marathon & Friends (39:00)>>>>
+* 👨‍🎓 Athens Mathematicians - Marathon & Friends (39:00)
 
 ### Heirs of Pythagoras: Lecture 1 Part 2
 
@@ -88,4 +88,10 @@
 ### Heirs of Pythagoras: Lecture 2 Part 1
 
 * 📑 FM2GP Chapter 4 - Euclid's Algorithm
+* ⭐️ [Liber Abaci - Pisa](https://www.amazon.ca/Fibonaccis-Liber-Abaci-Translation-Calculation/dp/0387407375)
 * 👨‍🎓 Leonardo Pisa (aka Fibonacci) (30:00)
+
+### Heirs of Pythagoras: Lecture 2 Part 2
+
+* 📑 FM2GP Chapter 4 - Euclid's Algorithm
+* 👨‍🎓 Dutch Golden Age (18:00)
