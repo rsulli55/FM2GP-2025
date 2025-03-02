@@ -75,7 +75,17 @@
 ### Heirs of Pythagoras: Lecture 1 Part 1
 
 * 📑 FM2GP Chapter 3 - Ancient Greek Number Theory (3.5 - 3.7)
+* 👨‍🎓 Athens Mathematicians - Marathon & Friends (39:00)>>>>
 
 ### Heirs of Pythagoras: Lecture 1 Part 2
 
 * 📑 FM2GP Chapter 4 - Euclid's Algorithm
+* ⭐️ [The Forgotten Revolution - Lucio Russo](https://www.amazon.ca/Forgotten-Revolution-Science-Born-Reborn/dp/3540203966)
+* 👨‍🎓 Socrates / Plato (0:00 - 30:00)
+* 👨‍🎓 Alexander the Great (~37:00)
+* 👨‍🎓 Euclid (47:30)
+
+### Heirs of Pythagoras: Lecture 2 Part 1
+
+* 📑 FM2GP Chapter 4 - Euclid's Algorithm
+* 👨‍🎓 Leonardo Pisa (aka Fibonacci) (30:00)
