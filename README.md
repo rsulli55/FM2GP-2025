@@ -30,4 +30,10 @@ Ask ChatGPT to remove the background 😂
 
 ![image](https://github.com/user-attachments/assets/3a6ad610-a9ba-48f7-ab9b-792312e67378)
 
+### From Meeting 5:
+
+Exercise 4.4. Prove the following proposition from Liber Quadratorum: For any odd square number x, there is an even square number y, such that x + y is a square number.
+Can you show me a graphic showing a geometric proof?
+
+![image](https://github.com/user-attachments/assets/b8cedfdc-37bc-439f-966d-74e9c49626b1)
 
