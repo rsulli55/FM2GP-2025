@@ -45,3 +45,14 @@
 * https://chromewebstore.google.com/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en
 * https://en.wikipedia.org/wiki/Kryptos
 * https://web.lmarena.ai/leaderboard
+
+### Chapter 4 Meeting (Mar 3, 2025)
+
+* https://www.nytimes.com/2024/09/01/magazine/worthless-pennies-united-states-economy.html
+* https://y.yarn.co/1e0bdd79-050d-48ce-bda9-3c9d8fab6aa7_text.gif
+* https://math.stackexchange.com/questions/1362893/doubt-whether-proof-is-correct
+* https://www.wolframalpha.com/input?i=%282n%28n%2B1%29+%2B+1%29%5E2+%2B+%282n%28n%2B1%29%29%5E2
+* https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Square_number_16_as_sum_of_gnomons.svg/1024px-Square_number_16_as_sum_of_gnomons.svg.png
+* https://www.stepanovpapers.com/Journeys/Journey2.pdf
+* https://chatgpt.com/share/67c65c48-b8fc-800d-bd1c-244bf1bf7068
+* https://www.stepanovpapers.com/Journeys/Journeys-0.3.pdf
