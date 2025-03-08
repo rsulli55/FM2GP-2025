@@ -100,3 +100,32 @@
 * 👨‍🎓 Dutch Golden Age (18:00)
 * 👨‍🎓 Simon Stevin (24:40)
 * 👨‍🎓 Descartes / D'Artagnon (41:48)
+
+### Heirs of Pythagoras: Lecture 3 Part 1
+
+* 📑 FM2GP Chapter 8 - More Algebraic Structures
+* 👨‍🎓 Gauss (14:00)
+* 👨‍🎓 JPGLD (38:00)
+* 👨‍🎓 Dedekind (46:00)
+
+### Heirs of Pythagoras: Lecture 3 Part 2
+
+* 📑 FM2GP Chapter 8 - More Algebraic Structures
+* 📑 FM2GP Chapter 6 - Abstraction in Mathematics
+* 👨‍🎓 Emmy Noether (1:00)
+
+### Heirs of Pythagoras: Lecture 4 Part 1
+
+* 📑 FM2GP Chapter 8 - More Algebraic Structures
+
+### Heirs of Pythagoras: Lecture 4 Part 2
+
+* 📑 FM2GP Chapter 12 - Extensions of GCD (12.1 & 12.2)
+* [⭐️ Computational problems associated with Racah algebra - Stein](https://www.sciencedirect.com/science/article/abs/pii/0021999167900472)
+* [⭐️ (1 + i) - ary GCD Computation inZ[ i ]as an Analogue to the Binary GCD Algorithm - André Weilert](https://www.researchgate.net/publication/257253077_1_i_-_ary_GCD_Computation_inZ_i_as_an_Analogue_to_the_Binary_GCD_Algorithm)
+* [⭐️ Efficient Algorithms for GCD and Cubic Residuosity in the Ring of Eisenstein Integers - Damgard & Frandsen](https://www.brics.dk/RS/03/8/BRICS-RS-03-8.pdf)
+* [⭐️ Binary GCD Like Algorithms for Some Complex Quadratic Rings - Agarwal & Frandsen ](https://link.springer.com/chapter/10.1007/978-3-540-24847-7_4)
+
+### Heirs of Pythagoras: Lecture 5 Part 1
+
+* 📑 FM2GP Chapter 12 - Extensions of GCD (12.3 - )
