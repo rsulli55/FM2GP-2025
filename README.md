@@ -3,6 +3,7 @@
 This is the material (code and presentation slide decks) that correspond to the [Programming Languages Virtual Meetup](https://www.meetup.com/Programming-Languages-Toronto-Meetup/) course that covered **From Mathematics to Generic Programming**.
 
 * **Book:** [From Mathematics to Generic Programming](https://www.fm2gp.com)
+* **Interview:** [FM2GP: An Interview with Alexander Stepanov and Daniel Rose](https://www.informit.com/articles/article.aspx?p=2314360)
 * **PDF:** [Three Algorithm Journeys (Draft 0.3)](https://www.stepanovpapers.com/Journeys/Journeys-0.3.pdf)
 * **Lectures:**
   * Four Algorithmic Journeys
