@@ -1,0 +1,10 @@
+[package]
+name = "shortest-path"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.16"
+
+[dev-dependencies]
+quickcheck = "1.0.3"
