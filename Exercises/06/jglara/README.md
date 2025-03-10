@@ -1,4 +1,4 @@
-# Exercise 3: Shortest Path using power operation
+# Exercise 6: Shortest Path using power operation
 
 The power operation is using tropical semiring operation: min of sums
 
@@ -35,8 +35,15 @@ cargo test
 
 Solve shortest_path on a simple graph:
 
-
+```
 q shortest_path.q
+```
 
+# Exercise 6: Part 2
+Polynomial evaluator using Horner's rule
+
+```
+q poly.q
+```
 
 
