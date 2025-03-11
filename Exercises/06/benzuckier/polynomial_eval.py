@@ -1,7 +1,7 @@
 import functools
 from typing import Iterable
 
-def horner(coeffs: Iterable[int], xis: int) -> int:
+def horner(coeffs: Iterable[float], xis: float) -> float:
     return functools.reduce((lambda acc, upd: acc * xis + upd), coeffs)
 
 if __name__ == "__main__":
