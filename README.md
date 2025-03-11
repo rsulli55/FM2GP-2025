@@ -38,3 +38,9 @@ Can you show me a graphic showing a geometric proof?
 
 ![image](https://github.com/user-attachments/assets/b8cedfdc-37bc-439f-966d-74e9c49626b1)
 
+### From Meeting 6:
+
+Asked ChatGPT to extend [this image](https://upload.wikimedia.org/wikipedia/commons/0/07/Algebraic_structures_-_magma_to_group.svg) to Ring, Semiring and Field. lol
+
+![image](https://github.com/user-attachments/assets/4536055c-ca91-4e1f-8b5f-638a38517d9b)
+
