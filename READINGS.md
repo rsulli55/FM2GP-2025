@@ -128,4 +128,19 @@
 
 ### Heirs of Pythagoras: Lecture 5 Part 1
 
-* 📑 FM2GP Chapter 12 - Extensions of GCD (12.3 - )
+* 📑 FM2GP Chapter 12 - Extensions of GCD (12.3 - 12.6)
+* 📑 FM2GP Chapter 11 - Permutation Algorithms
+* 👨‍🎓 Bachet (3:30)
+* 👨‍🎓 Henri Poincare (32:50)
+
+
+### Heirs of Pythagoras: Lecture 5 Part 2
+
+* 📑 FM2GP Chapter 11 - Permutation Algorithms
+
+### Heirs of Pythagoras: Lecture 6 Part 1
+
+* 📑 FM2GP Chapter 11 - Permutation Algorithms
+* [A Discipline of Programming - Dijkstra](https://seriouscomputerist.atariverse.com/media/pdf/book/Discipline%20of%20Programming.pdf)
+* [Science of Programming - Gries](https://seriouscomputerist.atariverse.com/media/pdf/book/Science%20of%20Programming.pdf)
+* 20:06 - 22:04 Stepanov on Rotate
