@@ -8,6 +8,7 @@ on:
 permissions:
   issues: write
   pull-requests: write
+  contents: read
 
 jobs:
   assign:
@@ -23,6 +24,8 @@ jobs:
       # Handle PRs
       - if: github.event_name == 'pull_request'
         uses: toshimaru/auto-author-assign@v2.1.1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
       - if: github.event_name == 'pull_request'
         uses: kentaro-m/auto-assign-action@v1.2.5
         with:
