@@ -1,0 +1,10 @@
+# Set to true to assign PR author as assignee
+addAssignees: true
+addAssignees: author
+
+# Set reviewers
+reviewers:
+  - codereport
+
+# A number of reviewers added to the PR
+numberOfReviewers: 1 
