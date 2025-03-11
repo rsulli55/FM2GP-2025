@@ -56,3 +56,12 @@
 * https://www.stepanovpapers.com/Journeys/Journey2.pdf
 * https://chatgpt.com/share/67c65c48-b8fc-800d-bd1c-244bf1bf7068
 * https://www.stepanovpapers.com/Journeys/Journeys-0.3.pdf
+
+### Chapter 6/8 (Mar 10, 2025)
+
+* https://chshersh.com/blog/2024-07-30-pragmatic-category-theory-part-01.html
+* https://en.wikipedia.org/wiki/Outline_of_algebraic_structures#Types_of_algebraic_structures
+* https://math.stackexchange.com/questions/2361889/graphically-organizing-the-interrelationships-of-basic-algebraic-structures
+* https://code.kx.com/q/basics/application/#projection
+* https://en.cppreference.com/w/cpp/utility/functional/bind
+* https://en.wikipedia.org/wiki/Algebra_over_a_field
