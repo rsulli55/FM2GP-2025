@@ -144,3 +144,8 @@
 * [A Discipline of Programming - Dijkstra](https://seriouscomputerist.atariverse.com/media/pdf/book/Discipline%20of%20Programming.pdf)
 * [Science of Programming - Gries](https://seriouscomputerist.atariverse.com/media/pdf/book/Science%20of%20Programming.pdf)
 * 20:06 - 22:04 Stepanov on Rotate
+
+### Heirs of Pythagoras: Lecture 6 Part 2
+
+* 📑 FM2GP Chapter 11 - Permutation Algorithms
+* [Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)
