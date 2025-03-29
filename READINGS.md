@@ -3,7 +3,6 @@
 * ⭐️ = Suggested
 * 📑 = Corresponds to
 * 👨‍🎓 = Mathematician Story
-* Otherwise Mentioned
 
 ## Journey 1: Spoils of the Egyptians
 
@@ -133,7 +132,6 @@
 * 👨‍🎓 Bachet (3:30)
 * 👨‍🎓 Henri Poincare (32:50)
 
-
 ### Heirs of Pythagoras: Lecture 5 Part 2
 
 * 📑 FM2GP Chapter 11 - Permutation Algorithms
@@ -149,3 +147,33 @@
 
 * 📑 FM2GP Chapter 11 - Permutation Algorithms
 * [Duff's Device](https://en.wikipedia.org/wiki/Duff%27s_device)
+
+## Journey 3: Successors of Peano
+
+### Successors of Peano: Lecture 1 Part 1
+
+* 📑 FM2GP Chapter 9 - Organizing Mathematical Knowledge (9.3 - 9.4)
+* 👨‍🎓 Lobachevsky (23:00)
+* 👨‍🎓 Bolyai (36:00)
+
+### Successors of Peano: Lecture 1 Part 2
+
+* 📑 FM2GP Chapter 9 - Organizing Mathematical Knowledge (9.5 - 9.6)
+* 👨‍🎓 David Hilbert (4:00)
+* 👨‍🎓 Giuseppe Peano (14:45)
+* 👨‍🎓 Dedekind & Grassmann (32:00)
+
+### Successors of Peano: Lecture 2 Part 1
+
+* 📑 Bonus Content - Oresme, Galileo, Infinities -> Don't show up in text
+* 👨‍🎓 Nicole Oresme (4:30)
+* 👨‍🎓 Galileo Galilei (22:00)
+* 👨‍🎓 Bernard Bolzano (38:30)
+* Dialogue Concerning Two Chief World Systems
+* Dialogues Concerning Two New Sciences
+
+### Successors of Peano: Lecture 2 Part 2
+
+* 📑 Bonus Content - Cantor, Hilbert's Hotel, Counting, Algebraic Numbers -> Don't show up in text
+* 👨‍🎓 Georg Cantor (3:20)
+
