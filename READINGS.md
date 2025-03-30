@@ -165,7 +165,7 @@
 
 ### Successors of Peano: Lecture 2 Part 1
 
-* 📑 Bonus Content - Oresme, Galileo, Infinities -> Don't show up in text
+* 📑 Bonus Content - Oresme, Galileo, Infinities -> Doesn't show up in text
 * 👨‍🎓 Nicole Oresme (4:30)
 * 👨‍🎓 Galileo Galilei (22:00)
 * 👨‍🎓 Bernard Bolzano (38:30)
@@ -174,6 +174,25 @@
 
 ### Successors of Peano: Lecture 2 Part 2
 
-* 📑 Bonus Content - Cantor, Hilbert's Hotel, Counting, Algebraic Numbers -> Don't show up in text
+* 📑 Bonus Content - Cantor, Hilbert's Hotel, Counting, Algebraic Numbers, Infinities -> Doesn't show up in text
 * 👨‍🎓 Georg Cantor (3:20)
 
+### Successors of Peano: Lecture 3 Part 1
+
+* 📑 Bonus Content - Zermelo's Axioms, Axiom of Ininity, Hilbert's Program -> Doesn't show up in text
+* 👨‍🎓 Fraenkel (~15:00)
+* 👨‍🎓 Kurt Godel (35:30)
+* ⭐️ Foundations on Set Theory
+* Les Nombres Inaccessibles - Morel
+
+### Successors of Peano: Lecture 3 Part 2
+
+* 📑 Bonus Content - First Incompleteness Theorem, Church, Turing, Liar's Paradox, Halting Problem -> Doesn't show up in text
+* 👨‍🎓 Alonzo Church (8:00)
+* 👨‍🎓 Alan Turing (23:30)
+
+### Successors of Peano: Lecture 4 Part 1
+
+* 📑 FM2GP Chapter 10 - Fundamental Programming Concepts
+* 👨‍🎓 Plato & Aristotle in School of Athens (1:00)
+* 👨‍🎓 Aristotle (3:30)
