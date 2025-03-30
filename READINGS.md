@@ -196,3 +196,7 @@
 * 📑 FM2GP Chapter 10 - Fundamental Programming Concepts
 * 👨‍🎓 Plato & Aristotle in School of Athens (1:00)
 * 👨‍🎓 Aristotle (3:30)
+
+### Successors of Peano: Lecture 4 Part 2
+
+* 📑 FM2GP Chapter 10 - Fundamental Programming Concepts (10.2 - )
