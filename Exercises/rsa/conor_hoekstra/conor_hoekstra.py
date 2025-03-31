@@ -1,6 +1,6 @@
-import random
 import math
-from typing import Tuple, Optional
+import random
+from typing import Optional, Tuple
 
 
 # Extended GCD implementation
@@ -17,7 +17,7 @@ def extended_gcd(a: int, b: int) -> Tuple[int, int, int]:
 # Multiplicative inverse
 def multiplicative_inverse(a: int, n: int) -> Optional[int]:
     """Returns multiplicative inverse of a modulo n, or None if it doesn't exist"""
-    gcd, x, y = extended_gcd(a, n)
+    gcd, x, _ = extended_gcd(a, n)
     if gcd != 1:
         return None
     return x % n
@@ -83,16 +83,14 @@ def encrypt(message: str, public_key: Tuple[int, int]) -> list:
     """Encrypt a message using RSA public key"""
     n, e = public_key
     # Convert message to integers and encrypt
-    cipher = [pow(ord(char), e, n) for char in message]
-    return cipher
+    return [pow(ord(char), e, n) for char in message]
 
 
 def decrypt(cipher: list, private_key: Tuple[int, int]) -> str:
     """Decrypt a message using RSA private key"""
     n, d = private_key
     # Decrypt and convert back to characters
-    message = "".join([chr(pow(char, d, n)) for char in cipher])
-    return message
+    return "".join([chr(pow(char, d, n)) for char in cipher])
 
 
 # Example usage
@@ -104,6 +102,9 @@ if __name__ == "__main__":
     message = "Hello, RSA!"
     encrypted = encrypt(message, public_key)
     decrypted = decrypt(encrypted, private_key)
+
+    print(f"Public Key: {public_key}")
+    print(f"Private Key: {private_key}")
 
     print(f"Original: {message}")
     print(f"Encrypted: {encrypted}")
