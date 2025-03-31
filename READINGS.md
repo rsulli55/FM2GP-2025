@@ -199,4 +199,21 @@
 
 ### Successors of Peano: Lecture 4 Part 2
 
-* 📑 FM2GP Chapter 10 - Fundamental Programming Concepts (10.2 - )
+* 📑 FM2GP Chapter 10 - Fundamental Programming Concepts (10.2 - 10.4)
+* "Alexandrescu has a limited understanding"
+
+### Successors of Peano: Lecture 5 Part 1
+
+* 📑 FM2GP Chapter 10 - Fundamental Programming Concepts (10.5 - 10.6)
+* "Of course he is wrong - he is wrong about almost everything he says"
+
+### Successors of Peano: Lecture 5 Part 2
+
+* 📑 FM2GP Chapter 10 - Fundamental Programming Concepts (10.6 - 10.8)
+* 46:57 "I claim that Iterator Theory in some sense is as fundamental to computer science as groups and rings are to algebra."
+
+### Four Algorithmic Journeys: Epilogue
+
+* ⭐️ Elementary Algebra - George Chrystal Vol 1 and 2 (AMS Reprint)
+* ⭐️ Euclid, The Thirteen Books of the Elements, Volume 1, 2 & 3 (Translated by Sir Thomas Heath)
+* - Oliver Byrne's 1847 edition (visualization of Euclid's Elements)
